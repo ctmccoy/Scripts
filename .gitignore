@@ -4,4 +4,4 @@
 #Whitelist
 !.gitignore
 !recon.sh
-!upgrade.sh
+!upgrade.zsh
